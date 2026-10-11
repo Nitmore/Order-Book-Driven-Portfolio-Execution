@@ -1,0 +1,29 @@
+
+# Raw daily market data
+7th sept/
+8th sept/
+9th sept/
+10th sept/
+11th sept/
+12th sept/
+13th sept/
+14th sept/
+
+# Parquet and raw CSV datasets
+*.parquet
+*.csv
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store

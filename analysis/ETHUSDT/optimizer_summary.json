@@ -1,0 +1,18 @@
+{
+ "unit_test_AC_closed_form": "PASS",
+ "kernel": "parametric",
+ "ref_lambda": 0.01,
+ "mean_objective_gap_vs_optimal_bps": {
+  "ac_calibrated": 0.063,
+  "ac_heuristic": 0.102,
+  "immediate": 9.396,
+  "twap": 3.729
+ },
+ "max_objective_gap_vs_optimal_bps": {
+  "ac_calibrated": 0.462,
+  "ac_heuristic": 0.227,
+  "immediate": 29.123,
+  "twap": 13.221
+ },
+ "share_sold_first_10pct_at_ref_lambda_3x_30min_%": 46.3
+}

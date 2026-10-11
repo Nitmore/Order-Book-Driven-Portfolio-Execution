@@ -1,0 +1,32 @@
+{
+ "bars": 69120,
+ "bar_s": 10,
+ "H0_bps_per_M": 1.104,
+ "H_inf_bps_per_M": 0.626,
+ "H_inf_95ci": [
+  0.516,
+  0.736
+ ],
+ "tau_95ci_s": [
+  33,
+  40
+ ],
+ "tau_s": 36.3,
+ "permanent_share": 0.567,
+ "flow_acf_lag1": 0.172,
+ "delta_by_window": {
+  "1": 0.61,
+  "5": 0.75,
+  "15": 0.81,
+  "30": 0.87
+ },
+ "state_model_R2_in_sample": 0.022,
+ "state_coef": {
+  "const": 3.885,
+  "log_sigma_prev": -0.052,
+  "log_volume_prev": 0.021,
+  "log_depth_prev": -0.478
+ },
+ "R2_oos_lag0_mean": 0.3233,
+ "R2_oos_propagator_mean": 0.3354
+}

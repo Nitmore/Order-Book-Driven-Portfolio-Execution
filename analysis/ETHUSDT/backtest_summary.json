@@ -1,0 +1,26 @@
+{
+ "orders_per_strategy": 4626,
+ "test_days": [
+  "2026-09-11",
+  "2026-09-12",
+  "2026-09-13",
+  "2026-09-14"
+ ],
+ "scenarios": [
+  "test_day_kernel",
+  "calib_kernel",
+  "sqrt_law",
+  "impact_x2"
+ ],
+ "TWAP_mean_IS_bps": 6.996,
+ "TWAP_SD_IS_bps": 27.09,
+ "OPT_0.01_mean_minus_TWAP_bps": -0.035,
+ "OPT_0.01_CI95": [
+  -2.953,
+  2.719
+ ],
+ "OPT_0.01_SD_change_vs_TWAP_%": -52.4,
+ "lowest_risk_benchmark": "pov",
+ "median_cost_saving_at_equal_risk_vs_best_benchmark_bps": 0.291,
+ "median_risk_reduction_at_equal_cost_vs_best_benchmark_%": 62.8
+}

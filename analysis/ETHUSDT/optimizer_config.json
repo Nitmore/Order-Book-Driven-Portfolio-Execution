@@ -1,0 +1,16 @@
+{
+ "LAMBDAS": [
+  0.0,
+  0.001,
+  0.003,
+  0.01,
+  0.03,
+  0.1,
+  0.3
+ ],
+ "REF_LAMBDA": 0.01,
+ "MIN_STEP_S": 10,
+ "MAX_STEPS": 240,
+ "KERNEL": "parametric",
+ "CHILD_EVERY_S": 2
+}

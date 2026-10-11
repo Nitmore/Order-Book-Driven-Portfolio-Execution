@@ -1,0 +1,44 @@
+{
+ "days": [
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09",
+  "2026-09-10",
+  "2026-09-11",
+  "2026-09-12",
+  "2026-09-13",
+  "2026-09-14"
+ ],
+ "test_days": [
+  "2026-09-11",
+  "2026-09-12",
+  "2026-09-13",
+  "2026-09-14"
+ ],
+ "usable_hours": 184,
+ "rv_sampling_s": 5.0,
+ "hourly_vol_bps_median": 35.1,
+ "hourly_vol_bps_p10_p90": [
+  22.2,
+  60.0
+ ],
+ "spread_bps_median": 0.0402,
+ "depth10_ETH_median": 3130,
+ "depth25_ETH_median": 10289,
+ "kyle_lambda_bps_per_$M_median": 1.269,
+ "busiest_hours_utc": [
+  13,
+  14,
+  12,
+  15
+ ],
+ "quietest_hours_utc": [
+  21,
+  23,
+  4,
+  5
+ ],
+ "volume_curve_improvement_vs_flat_%": 1.3,
+ "D10_ETH": 3136.6,
+ "execution_windows": 4668
+}
